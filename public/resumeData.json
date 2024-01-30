@@ -122,6 +122,12 @@
         "category": "Social Media",
         "image": "todolist.png",
         "url": "https://mytdlist.netlify.app/"
+      },
+      {
+        "title": "YouTube Clone",
+        "category": "Social Media",
+        "image": "youtubeclone.png",
+        "url": "https://myyoutubecloneapp.netlify.app/"
       }
     ]
   }
