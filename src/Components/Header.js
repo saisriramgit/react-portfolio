@@ -62,7 +62,7 @@ const Header = ({ data }) => {
           <h1 className="responsive-headline">
             <TypeWriter
               options={{
-                strings: name ? `I'm ${name}.` : null,
+                strings: name ? `Hello, I'm ${name}.` : null,
                 autoStart: true,
                 delay: 150,
                 cursor: "",
@@ -70,7 +70,7 @@ const Header = ({ data }) => {
             />
           </h1>
           <h3>
-            Based in {city}. <span>{occupation}</span>. {description}.
+            <span>{occupation}</span>. {description}.
           </h3>
           <hr />
           <ul className="social">{networks}</ul>
