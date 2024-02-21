@@ -1,5 +1,4 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
-
+# React JS Resume Starter Pack and Digital Portfolio
 
 ## Resume Starter Pack Description
 
@@ -12,7 +11,6 @@ Firstly, you will need to download the latest version of Node by <a href="https:
 ## 2. Clone the repo!
 
 Next, you will need to run the following command in the Terminal to clone the repo onto your machine.
-
 
 ## 3. Install Dependancies
 
