@@ -65,13 +65,23 @@
         "company": "TATA Consultancy Services (TCS) Limited",
         "title": "Full Stack Developer",
         "years": "August 2021 - November 2022",
-        "description": "Worked as a Full Stack Developer for a leading global bank based out of US. My roles and responsibilities were as follows: \n • Developed and implemented a new user interface design for the bank's online banking platform, resulting in a 30% increase in customer engagement and a 20% reduction in customer complaints.\n• Collaborated with cross-functional teams to optimize the bank's web application performance, resulting in a 15% decrease in page load times and an improved overall user experience.\n• Implemented security protocols and conducted regular vulnerability assessments, ensuring that the bank's online banking platform remained secure from cyber threats with zero reported breaches."
+        "description": [
+          {
+            "description1": "• Developed and implemented a new user interface design for the bank's online banking platform, resulting in a 30% increase in customer engagement and a 20% reduction in customer complaints."
+          },
+          {
+            "description2": "• Collaborated with cross-functional teams to optimize the bank's web application performance, resulting in a 15% decrease in page load times and an improved overall user experience."
+          },
+          {
+            "description3": "• Implemented security protocols and conducted regular vulnerability assessments, ensuring that the bank's online banking platform remained secure from cyber threats with zero reported breaches."
+          }
+        ]  
       }
     ],
     "skills": [
       {
         "name": "React Js",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "Node Js",
@@ -79,15 +89,15 @@
       },
       {
         "name": "JavaScript",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "JAVA",
-        "level": "80%"
+        "level": "90%"
       },
       {
-        "name": "Spring MVC",
-        "level": "80%"
+        "name": "Spring Boot",
+        "level": "90%"
       },
       {
         "name": "Python",
@@ -95,11 +105,11 @@
       },
       {
         "name": "Microservices",
-        "level": "70%"
+        "level": "90%"
       },
       {
         "name": "Oracle SQL",
-        "level": "70%"
+        "level": "90%"
       }
     ]
   },

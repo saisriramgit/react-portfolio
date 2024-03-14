@@ -64,7 +64,7 @@ const Header = ({ data }) => {
               options={{
                 strings: name ? `Hello, I'm ${name}.` : null,
                 autoStart: true,
-                delay: 150,
+                delay: 50,
                 cursor: "",
               }}
             />
