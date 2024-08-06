@@ -11,7 +11,7 @@ import "./App.css";
 
 const App = () => {
   const [resumeData, setResumeData] = useState({});
-
+  
   useEffect(() => {
     fetch("/resumeData.json")
       .then((res) => res.json())
