@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name": "Sai Sriram Gundepalli",
+    "occupation": "Graduate Student at Eastern Illinois University !!!",
+    "description": "Programmer",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Sai Sriram Gundepalli, worked as Full Stack Developer at TATA Consultancy Services (TCS) Limited and upcoming graduate student at Eastern Illinois University outfitted with a Masters in Computer Systems Technology. Ability to write clean and modular code and work within fast-paced environments..",
+    "contactmessage": "Get in touch with me. Feel free to contact!",
+    "email": "saisriram.g18@outlook.com",
+    "phone": "+1 (217)-790-8648",
+    "address": {
+      "city": "Charleston",
+      "state": "Illinois",
+      "zip": "61920"
+    },
+    "resumedownload": "./resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ssgundepalli",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/saisriramgit",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Sri_Ramtweets/",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Eastern Illinois University",
+        "degree": "Masters, Computer Systems Technology",
+        "graduated": "May 2024",
+        "description": "GPA: 4.0"
+      },
+      {
+        "school": "JNTUK University College of Engineering Vizianagaram",
+        "degree": "Bachelor Of Technology, Electronics and Communication Engineering",
+        "graduated": "August 2021",
+        "description": "CGPA: 7.93"
+      },
+      {
+        "school": "Aditya Junior College",
+        "degree": "Intermediate (XII), Maths Physics Chemistry (MPC)",
+        "graduated": "April 2017",
+        "description": "Percentage: 97.9%"
+      },
+      {
+        "school": "Prathibha Edu Care",
+        "degree": "Secondary Education",
+        "graduated": "April 2015",
+        "description": "CGPA: 9.5"
+      }
+    ],
+    "work": [
+      {
+        "company": "TATA Consultancy Services (TCS) Limited",
+        "title": "Full Stack Developer",
+        "years": "August 2021 - November 2022",
+        "description": [
+          {
+            "description1": "• Developed and implemented a new user interface design for the bank's online banking platform, resulting in a 30% increase in customer engagement and a 20% reduction in customer complaints."
+          },
+          {
+            "description2": "• Collaborated with cross-functional teams to optimize the bank's web application performance, resulting in a 15% decrease in page load times and an improved overall user experience."
+          },
+          {
+            "description3": "• Implemented security protocols and conducted regular vulnerability assessments, ensuring that the bank's online banking platform remained secure from cyber threats with zero reported breaches."
+          }
+        ]  
+      }
+    ],
+    "skills": [
+      {
+        "name": "React Js",
+        "level": "90%"
+      },
+      {
+        "name": "Node Js",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "JAVA",
+        "level": "90%"
+      },
+      {
+        "name": "Spring Boot",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Microservices",
+        "level": "90%"
+      },
+      {
+        "name": "Oracle SQL",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Weather forecast application",
+        "category": "Social Media",
+        "image": "weather.png",
+        "url": "https://yourweatherapplication.netlify.app/"
+      },
+      {
+        "title": "Simple Calculator",
+        "category": "Social Media",
+        "image": "calculator.png",
+        "url": "https://your-calculator-application.netlify.app/"
+      },
+      {
+        "title": "To-Do-List",
+        "category": "Social Media",
+        "image": "todolist.png",
+        "url": "https://mytdlist.netlify.app/"
+      },
+      {
+        "title": "YouTube Clone",
+        "category": "Social Media",
+        "image": "youtubeclone.png",
+        "url": "https://myyoutubecloneapp.netlify.app/"
+      }
+    ]
+  }
+}
