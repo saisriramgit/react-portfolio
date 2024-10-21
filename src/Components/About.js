@@ -33,10 +33,10 @@ const About = ({ data }) => {
               <p className="address">
                 <span>{name}</span>
                 <br />
-                <span>
+                {/* <span>
                   {city}, {state}, {zip}
                 </span>
-                <br />
+                <br /> */}
                 <span>{phone}</span>
                 <br />
                 <span>{email}</span>

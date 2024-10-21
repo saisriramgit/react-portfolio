@@ -1,17 +1,17 @@
 {
   "main": {
-    "name": "Sai Sriram Gundepalli",
-    "occupation": "Graduate Student at Eastern Illinois University !!!",
+    "name": "Sai Sriram",
+    "occupation": "A Tech Enthusiast and Software Engineer Focused on Crafting Efficient, Secure Applications !!!",
     "description": "Programmer",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sai Sriram Gundepalli, worked as Full Stack Developer at TATA Consultancy Services (TCS) Limited and upcoming graduate student at Eastern Illinois University outfitted with a Masters in Computer Systems Technology. Ability to write clean and modular code and work within fast-paced environments..",
+    "bio": "Hi there! I'm Sai Sriram, I'm a dedicated software engineer with a strong background in full-stack development, specializing in Java, Spring Boot, and Go. At Tata Consultancy Services (TCS), I successfully enhanced system performance and user experience through secure, scalable solutions. I am currently seeking new opportunities to leverage my expertise in cloud technologies, microservices, and containerization to drive impactful projects...",
     "contactmessage": "Get in touch with me. Feel free to contact!",
     "email": "saisriram.g18@outlook.com",
     "phone": "+1 (217)-790-8648",
     "address": {
-      "city": "Charleston",
-      "state": "Illinois",
-      "zip": "61920"
+      
+      "state": "Illinois"
+      
     },
     "resumedownload": "./resume.pdf",
     "social": [
@@ -62,19 +62,23 @@
     ],
     "work": [
       {
-        "company": "TATA Consultancy Services (TCS) Limited",
+        "company": "TATA Consultancy Services (TCS)",
         "title": "Full Stack Developer",
         "years": "August 2021 - November 2022",
         "description": [
           {
-            "description1": "• Developed and implemented a new user interface design for the bank's online banking platform, resulting in a 30% increase in customer engagement and a 20% reduction in customer complaints."
+            "description1": "• Developed an interactive Single-Page Application (SPA) user interface for a banking application using HTML, CSS, JavaScript, and Angular, increasing customer engagement by 30% and reducing user complaints by 25%."
           },
           {
-            "description2": "• Collaborated with cross-functional teams to optimize the bank's web application performance, resulting in a 15% decrease in page load times and an improved overall user experience."
+            "description2": "• Implemented responsive design techniques across platforms, enhancing user experience and leading to a 25% increase in mobile traffic and a 10% boost in conversion rates."
           },
           {
-            "description3": "• Implemented security protocols and conducted regular vulnerability assessments, ensuring that the bank's online banking platform remained secure from cyber threats with zero reported breaches."
+            "description3": "• Architected secure microservices using Spring Boot and Hibernate, leading to a 40% decrease in response time for RESTful Web Services."
+          },
+          {
+            "description4": "• Enhanced application security by implementing Spring Security protocols, reducing unauthorized access incidents by 50% through robust authentication and authorization measures."
           }
+
         ]  
       }
     ],

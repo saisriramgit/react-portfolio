@@ -23,7 +23,7 @@ const Footer = ({ data }) => {
             <li>
               Made by{" "}
               <a>
-                Sai Sriram Gundepalli
+                Sai Sriram
               </a>{" "}
               with ❤
             </li>
