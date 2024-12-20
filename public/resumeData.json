@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Sai Sriram",
-    "occupation": "A Tech Enthusiast and Software Engineer Focused on Crafting Efficient, Secure Applications !!!",
+    "occupation": "A Tech Enthusiast and Software Engineer Focused on Crafting Efficient, Secure & Scalable Applications !!!",
     "description": "Programmer",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I'm Sai Sriram, I'm a dedicated software engineer with a strong background in full-stack development, specializing in Java, Spring Boot, and Go. At Tata Consultancy Services (TCS), I successfully enhanced system performance and user experience through secure, scalable solutions. I am currently seeking new opportunities to leverage my expertise in cloud technologies, microservices, and containerization to drive impactful projects...",
+    "bio": "Hi there! I'm a software engineer with expertise in frontend & backend development. Passionate about cloud technologies & System Design.",
     "contactmessage": "Get in touch with me. Feel free to contact!",
     "email": "saisriram.g18@outlook.com",
     "phone": "+1 (217)-790-8648",
@@ -62,21 +62,37 @@
     ],
     "work": [
       {
+        "company": "SuperINTRO",
+        "title": "Software Engineer Intern",
+        "years": "December 2024 - Present",
+        "description": [
+          {
+            "description1": "• Designed intuitive UI/UX wireframes and mockups in Figma, transforming complex concepts into user-friendly designs."
+          },
+          {
+            "description2": "• Built responsive, dynamic interfaces with React 18.2.0, and TypeScript 5.4.3, ensuring seamless user engagement."
+          },
+          {
+            "description3": "• Developed robust back-end services using Node.js 20.9.0, and Express.js 4.19.1 enabling efficient data handling and secure API integrations."
+          }
+        ]  
+      },
+      {
         "company": "TATA Consultancy Services (TCS)",
         "title": "Full Stack Developer",
         "years": "August 2021 - November 2022",
         "description": [
           {
-            "description1": "• Developed an interactive Single-Page Application (SPA) user interface for a banking application using HTML, CSS, JavaScript, and Angular, increasing customer engagement by 30% and reducing user complaints by 25%."
+            "description1": "• Developed an engaging Single-Page Application (SPA) to modernize the banking experience through HTML, CSS, JavaScript (ES6+), and Angular 13, resulted in a notable increase in customer interaction levels of up to 30%."
           },
           {
-            "description2": "• Implemented responsive design techniques across platforms, enhancing user experience and leading to a 25% increase in mobile traffic and a 10% boost in conversion rates."
+            "description2": "• Implemented responsive design techniques across platforms, enhancing user experience and leading to a 25% increase in overall traffic and a 10% boost in conversion rates. "
           },
           {
-            "description3": "• Architected secure microservices using Spring Boot and Hibernate, leading to a 40% decrease in response time for RESTful Web Services."
+            "description3": "• Architected secure microservices using Java 8 and Spring Boot 2.7.0, leading to a 40% decrease in response time for RESTful Web Services. "
           },
           {
-            "description4": "• Enhanced application security by implementing Spring Security protocols, reducing unauthorized access incidents by 50% through robust authentication and authorization measures."
+            "description4": "• Optimized data processing pipeline using Java Streams API and lambda expressions, reducing processing time by 40% and improving code maintainability with 30% fewer lines of code."
           }
 
         ]  
