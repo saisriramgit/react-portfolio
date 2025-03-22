@@ -1,6 +1,6 @@
 {
   "main": {
-    "name": "Sai Sriram Gundepalli",
+    "name": "Sai Sriram",
     "occupation": "A Tech Enthusiast and Software Engineer Focused on Crafting Efficient, Secure & Scalable Applications !!!",
     "description": "Programmer",
     "image": "profilepic.jpg",
@@ -62,18 +62,40 @@
     ],
     "work": [
       {
-        "company": "SuperINTRO",
-        "title": "Software Engineer Intern",
-        "years": "December 2024 - Present",
+        "company": "Carvintech",
+        "title": "Software Engineer",
+        "years": "March 2025 - Present",
         "description": [
           {
-            "description1": "• Designed intuitive UI/UX wireframes and mockups in Figma, transforming complex concepts into user-friendly designs."
+            "description1": "• Designed and developed the application from scratch, including UI mockups and full implementation across the stack."
           },
           {
-            "description2": "• Built responsive, dynamic interfaces with React 18.2.0, and TypeScript 5.4.3, ensuring seamless user engagement."
+            "description2": "• Built responsive and modular UI using Angular, Bootstrap, and Web Components for seamless user experience."
           },
           {
-            "description3": "• Developed robust back-end services using Node.js 20.9.0, and Express.js 4.19.1 enabling efficient data handling and secure API integrations."
+            "description3": "• Developed backend services using Node.js to handle data processing, user interactions, and API integrations."
+          },
+          {
+            "description4": "• Leveraged GitHub Actions to automate testing and deployment workflows, enhancing code quality and team productivity."
+          }
+        ]  
+      },
+      {
+        "company": "SuperINTRO",
+        "title": "Software Engineer Intern",
+        "years": "December 2024 - March 2025",
+        "description": [
+          {
+            "description1": "• Crafted user-centric UI/UX wireframes and mockups in Figma, transforming complex concepts into user-friendly designs"
+          },
+          {
+            "description2": "• Engineered a persona-based social media platform utilizing ReactJS and NodeJS, achieving a 30% increase in user engagement and contributing to a community growth of over 1,000 active users within the first three months."
+          },
+          {
+            "description3": "• Optimized back-end performance through the implementation of ExpressJs and NodeJS, resulting in a 40% reduction in server response times and enhancing overall user experience by decreasing load times to under two seconds."
+          },
+          {
+            "description4": "• Implemented advanced authentication protocols using JWT, boosting security measures that decreased unauthorized access attempts by 80% and ensuring compliance with industry standards for user data protection."
           }
         ]  
       },
@@ -100,8 +122,12 @@
     ],
     "skills": [
       {
-        "name": "React Js",
-        "level": "90%"
+        "name": "React",
+        "level": "80%"
+      },
+      {
+        "name": "Angular",
+        "level": "60%"
       },
       {
         "name": "Node Js",
@@ -110,6 +136,10 @@
       {
         "name": "JavaScript",
         "level": "90%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "80%"
       },
       {
         "name": "JAVA",
