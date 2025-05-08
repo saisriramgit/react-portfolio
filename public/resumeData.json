@@ -4,7 +4,7 @@
     "occupation": "A Tech Enthusiast and Software Engineer Focused on Crafting Efficient, Secure & Scalable Applications !!!",
     "description": "Programmer",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I'm a software engineer with expertise in frontend & backend development. Passionate about cloud technologies & System Design.",
+    "bio": "Hi there! I'm a Software Engineer passionate about building scalable web applications and deploying reliable cloud-native systems. I work across the stack with React, Node.js, Java, Spring Boot, and AWS. I enjoy optimizing CI/CD pipelines, automating deployments, and designing robust APIs.",
     "contactmessage": "Get in touch with me. Feel free to contact!",
     "email": "saisriram.g18@outlook.com",
     "address": {
@@ -63,60 +63,30 @@
       {
         "company": "Carvintech",
         "title": "Software Engineer",
+        "location": "Atlanta, GA",
         "years": "March 2025 - Present",
-        "description": [
-          {
-            "description1": "• Designed and developed the application from scratch, including UI mockups and full implementation across the stack."
-          },
-          {
-            "description2": "• Built responsive and modular UI using Angular, Bootstrap, and Web Components for seamless user experience."
-          },
-          {
-            "description3": "• Developed backend services using Node.js to handle data processing, user interactions, and API integrations."
-          },
-          {
-            "description4": "• Leveraged GitHub Actions to automate testing and deployment workflows, enhancing code quality and team productivity."
-          }
-        ]  
+        "description": []  
       },
       {
         "company": "SuperINTRO",
         "title": "Software Engineer Intern",
+        "location": "San Francisco, CA",
         "years": "December 2024 - March 2025",
-        "description": [
-          {
-            "description1": "• Crafted user-centric UI/UX wireframes and mockups in Figma, transforming complex concepts into user-friendly designs"
-          },
-          {
-            "description2": "• Engineered a persona-based social media platform utilizing ReactJS and NodeJS, achieving a 30% increase in user engagement and contributing to a community growth of over 1,000 active users within the first three months."
-          },
-          {
-            "description3": "• Optimized back-end performance through the implementation of ExpressJs and NodeJS, resulting in a 40% reduction in server response times and enhancing overall user experience by decreasing load times to under two seconds."
-          },
-          {
-            "description4": "• Implemented advanced authentication protocols using JWT, boosting security measures that decreased unauthorized access attempts by 80% and ensuring compliance with industry standards for user data protection."
-          }
-        ]  
+        "description": []  
+      },
+      {
+        "company": "Carvintech",
+        "title": "Front End Engineer",
+        "location": "Atlanta, GA",
+        "years": "January 2024 - December 2024",
+        "description": []  
       },
       {
         "company": "TATA Consultancy Services (TCS)",
         "title": "Full Stack Developer",
+        "location": "India",
         "years": "August 2021 - November 2022",
-        "description": [
-          {
-            "description1": "• Developed an engaging Single-Page Application (SPA) to modernize the banking experience through HTML, CSS, JavaScript (ES6+), and Angular 13, resulted in a notable increase in customer interaction levels of up to 30%."
-          },
-          {
-            "description2": "• Implemented responsive design techniques across platforms, enhancing user experience and leading to a 25% increase in overall traffic and a 10% boost in conversion rates. "
-          },
-          {
-            "description3": "• Architected secure microservices using Java 8 and Spring Boot 2.7.0, leading to a 40% decrease in response time for RESTful Web Services. "
-          },
-          {
-            "description4": "• Optimized data processing pipeline using Java Streams API and lambda expressions, reducing processing time by 40% and improving code maintainability with 30% fewer lines of code."
-          }
-
-        ]  
+        "description": []  
       }
     ],
     "skills": [
@@ -126,7 +96,7 @@
       },
       {
         "name": "Angular",
-        "level": "60%"
+        "level": "80%"
       },
       {
         "name": "Node Js",
