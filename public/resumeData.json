@@ -135,6 +135,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Simple Astro portfolio",
+        "category": "Personal Website",
+        "image": "astro.png",
+        "url": "https://sriram-astro-profile.web.app/"
+      },
+      {
         "title": "Weather forecast application",
         "category": "Social Media",
         "image": "weather.png",
